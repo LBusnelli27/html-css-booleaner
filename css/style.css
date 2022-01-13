@@ -1,3 +1,9 @@
+body {
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+}
+
 header {
     background-color: #13B5FB;
     background-image: url(../img/pattern.png);
@@ -7,4 +13,9 @@ header {
     height: 40%;
     width: 20%;
     padding-top: 6%;
+}
+
+main {
+    margin-left: 10px;
+    margin-right: 10px;
 }
