@@ -29,9 +29,22 @@ main {
 
 #subtitle-top-title {
     font-size: 20px;
-    opacity: 0.7;
+    opacity: 0.6;
 }
 
 #the-booleaner-color {
     color: #13B5FB;
+}
+
+#booleaner-date {
+    font-size: 14px;
+}
+
+#photo-description {
+    margin-top: 0px;
+    font-size: 14px;
+}
+
+ul {
+    margin-left: -20px;
 }
