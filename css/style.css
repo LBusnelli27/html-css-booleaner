@@ -74,3 +74,32 @@ th {
 #p-under-table {
     margin-bottom: 50px;
 }
+
+footer {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.p-footer {
+    margin-bottom: 0px;
+}
+
+#div-pic-1 {
+    background-image: url(../img/monitor.jpg);
+    height: 200px;
+    width: 300px;
+}
+
+#div-pic-2 {
+    background-image: url(../img/graph.jpg);
+    height: 200px;
+    width: 300px;
+}
+
+.p-in-div {
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 24px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
