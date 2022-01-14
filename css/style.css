@@ -80,22 +80,23 @@ footer {
     margin-bottom: 0px;
 }
 
+.footer-image {
+    height: 200px;
+    width: 270px;
+}
+
 #div-pic-1 {
     background-image: url(../img/monitor.jpg);
-    height: 200px;
-    width: 300px;
 }
 
 #div-pic-2 {
     background-image: url(../img/graph.jpg);
-    height: 200px;
-    width: 300px;
 }
 
 .p-in-div {
     color: #ffffff;
     font-weight: bold;
-    font-size: 24px;
+    font-size: 22px;
     padding-top: 10px;
     padding-left: 10px;
 }
